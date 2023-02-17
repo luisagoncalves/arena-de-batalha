@@ -1,0 +1,14 @@
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GUI.exe.config
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GUI.exe
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GUI.pdb
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GameLogic.dll
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GameLogic.pdb
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.AssemblyReference.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.FormPrincipal.resources
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.Properties.Resources.resources
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.GenerateResource.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.CoreCompileInputs.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.CopyComplete
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.exe
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.pdb

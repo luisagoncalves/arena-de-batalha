@@ -1,0 +1,8 @@
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\bin\Debug\ArenaDeBatalha.GameLogic.dll
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\bin\Debug\ArenaDeBatalha.GameLogic.pdb
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.AssemblyReference.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.Media.resources
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.GenerateResource.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.dll
+C:\Users\luisa\csharp\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.pdb
